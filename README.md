@@ -1,2 +1,2 @@
-# Fairy Pixelmon
-Canal de Atualizações da Fairy
+# solum launcher pixelmon
+releases only
